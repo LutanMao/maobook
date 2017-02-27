@@ -11,7 +11,7 @@
         android:paddingBottom="@dimen/activity_vertical_margin"
         tools:context=".ui.activity.HomeActivity">
 
-    // 主界面布局
+    <!-- 主界面布局 -->
     <include layout="@layout/layout_home"/>
 
 </RelativeLayout>
